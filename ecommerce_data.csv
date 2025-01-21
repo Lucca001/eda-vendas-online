@@ -1,0 +1,8 @@
+customer_id,category,product,price,purchase_date,location,payment_method
+1010,Eletrônicos,Smartphone,850.50,2024-03-15,São Paulo,Cartão de Crédito
+1023,Roupas,Camiseta,45.00,2024-05-20,Rio de Janeiro,Pix
+1045,Livros,Ficção,25.75,2024-08-10,Curitiba,Boleto
+1087,Casa,Sofá,599.99,2024-02-18,Salvador,Cartão de Crédito
+1100,Esportes,Bola,30.00,2024-07-25,Porto Alegre,Pix
+
+Adiciona dataset ecommerce_data.csv
